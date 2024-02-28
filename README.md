@@ -1,4 +1,4 @@
-# TinDog Project
+# TinDog Startup Website
 
 ## SVGs:
 
